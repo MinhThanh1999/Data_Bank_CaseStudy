@@ -22,5 +22,5 @@ This case study is all about calculating metrics, growth and helping the busines
 
 # CASE STUDY SOLUTIONS
 
-- Part A: [Customer nodes exploration](
+- Part A: [Customer nodes exploration](https://github.com/MinhThanh1999/Data_Bank_CaseStudy/blob/main/Solutions/A%20Customer%20nodes%20exploration%204cd3dad19280484e82a94eb8d7853d3f.md)
 - Part B: [Customer Transactions]
